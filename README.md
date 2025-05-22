@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e20a1e70-657c-4735-adcf-9fbc49ec7158)
 
-Công cụ mã hóa/giải mã file sử dụng thuật toán AES 256-bit an toàn.
+Công cụ mã hóa/giải mã file sử dụng thuật toán AES an toàn.
 
 ## Tính Năng Chính
 - Mã hóa file với AES 128/192/256-bit
